@@ -82,3 +82,5 @@ As all template parameters and function arguments are known at this stage, the k
     void BoxInside(...)
 
 As all the above is inlined, this template stack will result in transformationally specialized SIMD instructions as implemented by the backend, looping over the user input and populating the output array.
+
+[BeiYuu]:    http://beiyuu.com  "BeiYuu"
