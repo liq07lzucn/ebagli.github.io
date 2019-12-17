@@ -12,8 +12,8 @@ description: GEANTV的G4集成。
 See README file GEANT4_INSTALL.md for configuration of VecGeom and installation
 of Geant4 with either USolids and VecGeom shapes implementations.
 
-
 * Building a Geant4 example for testing
+
   =====================================
 
 This tutorial uses Geant4 example under ${G4SOURCE}/examples/basic/B1:
@@ -22,7 +22,6 @@ This tutorial uses Geant4 example under ${G4SOURCE}/examples/basic/B1:
   cd $TOPDIR
   mkdir b1
   cp -r ${G4SOURCE}/examples/basic/B1/*  b1/
-
 
 This example has been extended, to include a larger set of shapes to be
 exercised.
